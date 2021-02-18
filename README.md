@@ -1,4 +1,4 @@
-<img width="auto" src="https://raw.githubusercontent.com/vitoralvesp/vitoralvesp/5ff22a4b38f83ba32742eb8b23de4a9164e8755f/GitHub%20Readme%20Profile.jpg">
+<img width="auto" src="https://github.com/vitoralvesp/vitoralvesp/blob/main/GitHub%20Readme%20Profile.jpg?raw=true">
 
 <!--
 **vitoralvesp/vitoralvesp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
