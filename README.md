@@ -1,5 +1,5 @@
 <!--<img width="auto" src="https://raw.githubusercontent.com/vitoralvesp/vitoralvesp/8c1721acae4971f95883befe154911d9845f5951/Readme%20Profile%20II.jpg">-->
-<img width="auto" src="https://github.com/vitoralvesp/vitoralvesp/blob/main/Readme%20Profile%20III.jpg?raw=true">
+<!--<img width="auto" src="https://github.com/vitoralvesp/vitoralvesp/blob/main/Readme%20Profile%20III.jpg?raw=true">-->
 
 
 <a href="https://www.linkedin.com/in/vitor-alves-pereira-9b78801b4/" alt="MY PROFILE ON LINKEDIN">
