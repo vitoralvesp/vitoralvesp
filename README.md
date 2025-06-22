@@ -1,31 +1,46 @@
-<!--<img width="auto" src="https://raw.githubusercontent.com/vitoralvesp/vitoralvesp/8c1721acae4971f95883befe154911d9845f5951/Readme%20Profile%20II.jpg">-->
-<!--<img width="auto" src="https://github.com/vitoralvesp/vitoralvesp/blob/main/Readme%20Profile%20III.jpg?raw=true">
+### Greetings
+Hi, everyone! My name is **Vitor Pereira** and I'm a **Computer Science** student at [Universidade Presbiteriana Mackenzie](https://www.mackenzie.br/graduacao/sao-paulo-higienopolis/ciencia-da-computacao) and a **GBM intern** at [Goldman Sachs](https://www.goldmansachs.com/).  
+I'm currently working on some new projects and organizing all the things for here. Feel free to comment and suggest corrections and/or additions on these projects or other repositories.
 
+### Learning in 2025/2
+```
+📂 Technologies/
+├─ 🗂️ Programming Languages/
+│  ├─ 🟨 Apache Groovy
+│  ├─ 🟨 C
+│  ├─ 🟨 Java
+│  ├─ 🟥 Python
+│  ├─ 🟨 SQL
+├─ 🗂️ Frameworks/
+│  ├─ 🟥 Angular
+│  ├─ 🟥 Spring Boot
+├─ 🗂️ Databases/
+│  ├─ 🟨 MySQL
+│  ├─ 🟥 Oracle
+📂 Computer-Science/
+├─ 🗂️ 5th-Semester/
+│  ├─ 🟨 Computer Network
+│  ├─ 🟩 Entrepreneurship Principles
+│  ├─ 🟩 Formal Languages & Automata
+│  ├─ 🟩 Parallel Computing
+│  ├─ 🟩 Programming Paradigms
+│  ├─ 🟩 Software Engineering
+📂 Languages/
+├─ 🟨 English
+├─ 🟥 Español
+```
+<details>
+<summary><code><b>Description</b></code></summary>
+  
+&nbsp;&nbsp;&nbsp;&nbsp;🟩 There's still some learn to do, but overall happy with the progress made  
+&nbsp;&nbsp;&nbsp;&nbsp;🟨 Still learning and very focused right now  
+&nbsp;&nbsp;&nbsp;&nbsp;🟥 To learn soon or in wait mode  
 
-<a href="https://www.linkedin.com/in/vitor-alves-pereira-9b78801b4/" alt="MY PROFILE ON LINKEDIN">
-  <img width="auto" src="https://raw.githubusercontent.com/vitoralvesp/vitoralvesp/2294534cc90821bfa2356b69607563762abf83f6/linkedin.svg" target="__blank">
-</a>
+</details>
 
-<a href="https://codepen.io/vitoralvesp" alt="MY PROFILE ON CODEPEN">
-  <img width="auto" src="https://raw.githubusercontent.com/vitoralvesp/vitoralvesp/2294534cc90821bfa2356b69607563762abf83f6/codepen.svg" target="__blank">
-</a>
+### Statistics
+[![GitHub Streak](https://streak-stats.demolab.com?user=vitoralvesp&theme=gruvbox-duo&border_radius=10&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)](https://git.io/streak-stats)
 
-<a href="https://dribbble.com/vitoralvesp" alt="MY PROFILE ON DRIBBBLE">
-  <img width="auto" src="https://raw.githubusercontent.com/vitoralvesp/vitoralvesp/2294534cc90821bfa2356b69607563762abf83f6/dribbble.svg" target="__blank">
-</a>-->
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
-
-<!--
-**vitoralvesp/vitoralvesp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
