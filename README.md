@@ -39,7 +39,7 @@ I'm currently working on some new projects and organizing all the things for her
 </details>
 
 ### Statistics
-[![GitHub Streak](https://streak-stats.demolab.com?user=vitoralvesp&theme=gruvbox-duo&border_radius=10&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=vitoralvesp&theme=gruvbox-duo&border_radius=9.5&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&card_width=1080)](https://git.io/streak-stats)
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
