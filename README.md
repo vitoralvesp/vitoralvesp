@@ -39,7 +39,3 @@ Hi, everyone! My name is **Vitor Pereira** and I'm a **Computer Science** studen
 
 ### Statistics
 [![GitHub Streak](https://streak-stats.demolab.com?user=vitoralvesp&theme=gruvbox-duo&border_radius=9.5&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&card_width=1080)](https://git.io/streak-stats)
-
-<!--START_SECTION:SHOW_TITLE-->
-<!--END_SECTION:waka-->
-
