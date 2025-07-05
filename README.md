@@ -12,7 +12,7 @@ Hi, everyone! My name is **Vitor Pereira** and I'm a **Computer Science** studen
 │  ├─ 🟨 SQL
 ├─ 🗂️ Frameworks/
 │  ├─ 🟥 Angular
-│  ├─ 🟥 Spring Boot
+│  ├─ 🟨 Spring Boot
 │  ├─ 🟥 Spring Security
 ├─ 🗂️ Databases/
 │  ├─ 🟨 MySQL
