@@ -11,7 +11,7 @@ Hi, everyone! My name is **Vitor Pereira** and I'm a **Computer Science** studen
 │  ├─ 🟥 Python
 │  ├─ 🟨 SQL
 ├─ 🗂️ Frameworks/
-│  ├─ 🟥 Angular
+│  ├─ 🟨 Angular
 │  ├─ 🟨 Spring Boot
 │  ├─ 🟥 Spring Security
 ├─ 🗂️ Databases/
