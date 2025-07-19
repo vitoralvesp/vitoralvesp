@@ -1,5 +1,5 @@
 ### Greetings
-Hi, everyone! My name is **Vitor Pereira** and I'm a **Computer Science** student at [Universidade Presbiteriana Mackenzie](https://www.mackenzie.br/graduacao/sao-paulo-higienopolis/ciencia-da-computacao) and a **GBM intern** at [Goldman Sachs](https://www.goldmansachs.com/). I'm currently working on some new projects and organizing all the things for here. Feel free to comment and suggest corrections and/or additions on these projects or other repositories.
+Hi, everyone! My name is **Vitor Pereira** and I'm a **Computer Science** student at [Universidade Presbiteriana Mackenzie](https://www.mackenzie.br/graduacao/sao-paulo-higienopolis/ciencia-da-computacao) and a **Software Engineering Intern** at [Goldman Sachs](https://www.goldmansachs.com/). I'm currently working on some new projects and organizing all the things for here. Feel free to comment and suggest corrections and/or additions on these projects or other repositories.
 
 ### Learning in 2025/2
 ```
